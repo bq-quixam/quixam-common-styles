@@ -1,0 +1,24 @@
+<div class="container">
+  <h1>colors & classes</h1>
+  <div>
+
+
+    <table class="table-responsive" ng-repeat="color in vm.colorClasses">
+      <thead>
+        <th>
+          {{color.name}}
+        </th>
+      </thead>
+      <tbody>
+        <tr  ng-repeat="class in color.classes">
+          <td >
+            <p ng-class="class.class">{{class.class}} </p>
+          </td>
+          <td ng-style="{'background-color': class.color, 'height':50+'px', 'width':50+'px' }">
+
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
