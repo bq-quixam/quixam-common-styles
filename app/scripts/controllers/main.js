@@ -26,10 +26,10 @@ angular.module('quixamCommonStylesApp')
        colorClass.name = color;
        colorClass.classes = [];
        for(var i=1; i<=numberOfClasses; i++) {
-         colorClass.classes.push({class:'quixam-color__'+color+'-d'+i, color:'$quixam-'+color+'-d'+i});
+         colorClass.classes.push({class:'quixam-color__'+color+'-d'+i, color:'quixam-bgcolor__'+color+'-d'+i});
        }
        for(var j=1; j<=numberOfClasses; j++) {
-         colorClass.classes.push({class:'quixam-color__'+color+'-l'+j, color:'$quixam-'+color+'-l'+j});
+         colorClass.classes.push({class:'quixam-color__'+color+'-l'+j, color:'quixam-bgcolor__'+color+'-l'+j});
        }
        vm.colorClasses.push(colorClass);
      });
