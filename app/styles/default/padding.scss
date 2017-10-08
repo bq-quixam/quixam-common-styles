@@ -1,0 +1,42 @@
+@import "variables";
+
+.quixam-padding{
+
+  padding: $quixam-padding-4x;
+
+  &-none{
+    padding: $quixam-padding-none;
+  }
+
+  &-1x{
+    padding: $quixam-padding-1x;
+  }
+
+  &-2x{
+    padding: $quixam-padding-2x;
+  }
+
+  &-3x{
+    padding: $quixam-padding-3x;
+  }
+
+  &-4x{
+    padding: $quixam-padding-4x;
+  }
+
+  &-5x{
+    padding: $quixam-padding-5x;
+  }
+
+  &-6x{
+    padding: $quixam-padding-6x;
+  }
+
+  &-7x{
+    padding: $quixam-padding-7x;
+  }
+
+  &-8x{
+    padding: $quixam-padding-8x;
+  }
+}
