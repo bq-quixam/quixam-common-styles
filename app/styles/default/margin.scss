@@ -1,0 +1,40 @@
+@import "variables";
+
+.quixam-margin{
+
+  &-none{
+    margin : $quixam-margin-none;
+  }
+
+  &-1x{
+    margin : $quixam-margin-1x;
+  }
+
+  &-2x{
+    margin : $quixam-margin-2x;
+  }
+
+  &-3x{
+    margin : $quixam-margin-3x;
+  }
+
+  &-4x{
+    margin : $quixam-margin-4x;
+  }
+
+  &-5x{
+    margin : $quixam-margin-5x;
+  }
+
+  &-6x{
+    margin : $quixam-margin-6x;
+  }
+
+  &-7x{
+    margin : $quixam-margin-7x;
+  }
+
+  &-8x{
+    margin : $quixam-margin-8x;
+  }
+}
