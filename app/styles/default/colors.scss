@@ -167,3 +167,171 @@
     }
   }
 }
+
+.quixam-bgcolor {
+  &__green {
+    background-color: $quixam-green;
+    &-d1 {
+      background-color: $quixam-green-d1;
+    }
+    &-d2 {
+      background-color: $quixam-green-d2;
+    }
+    &-d3 {
+      background-color: $quixam-green-d3
+    }
+    &-d4 {
+      background-color: $quixam-green-d4;
+    }
+    &-d5 {
+      background-color: $quixam-green-d5;
+    }
+    &-l1 {
+      background-color: $quixam-green-l1;
+    }
+    &-l2 {
+      background-color: $quixam-green-l2;
+    }
+    &-l3 {
+      background-color: $quixam-green-l3;
+    }
+    &-l4 {
+      background-color: $quixam-green-l4;
+    }
+    &-l5 {
+      background-color: $quixam-green-l5;
+    }
+  }
+  &__blue {
+    background-color: $quixam-blue;
+    &-d1 {
+      background-color: $quixam-blue-d1;
+    }
+    &-d2 {
+      background-color: $quixam-blue-d2;
+    }
+    &-d3 {
+      background-color: $quixam-blue-d3
+    }
+    &-d4 {
+      background-color: $quixam-blue-d4;
+    }
+    &-d5 {
+      background-color: $quixam-blue-d5;
+    }
+    &-l1 {
+      background-color: $quixam-blue-l1;
+    }
+    &-l2 {
+      background-color: $quixam-blue-l2;
+    }
+    &-l3 {
+      background-color: $quixam-blue-l3;
+    }
+    &-l4 {
+      background-color: $quixam-blue-l4;
+    }
+    &-l5 {
+      background-color: $quixam-blue-l5;
+    }
+  }
+  &__yellow {
+    background-color: $quixam-yellow;
+    &-d1 {
+      background-color: $quixam-yellow-d1;
+    }
+    &-d2 {
+      background-color: $quixam-yellow-d2;
+    }
+    &-d3 {
+      background-color: $quixam-yellow-d3
+    }
+    &-d4 {
+      background-color: $quixam-yellow-d4;
+    }
+    &-d5 {
+      background-color: $quixam-yellow-d5;
+    }
+    &-l1 {
+      background-color: $quixam-yellow-l1;
+    }
+    &-l2 {
+      background-color: $quixam-yellow-l2;
+    }
+    &-l3 {
+      background-color: $quixam-yellow-l3;
+    }
+    &-l4 {
+      background-color: $quixam-yellow-l4;
+    }
+    &-l5 {
+      background-color: $quixam-yellow-l5;
+    }
+  }
+  &__orange {
+    background-color: $quixam-orange;
+    &-d1 {
+      background-color: $quixam-orange-d1;
+    }
+    &-d2 {
+      background-color: $quixam-orange-d2;
+    }
+    &-d3 {
+      background-color: $quixam-orange-d3
+    }
+    &-d4 {
+      background-color: $quixam-orange-d4;
+    }
+    &-d5 {
+      background-color: $quixam-orange-d5;
+    }
+    &-l1 {
+      background-color: $quixam-orange-l1;
+    }
+    &-l2 {
+      background-color: $quixam-orange-l2;
+    }
+    &-l3 {
+      background-color: $quixam-orange-l3;
+    }
+    &-l4 {
+      background-color: $quixam-orange-l4;
+    }
+    &-l5 {
+      background-color: $quixam-orange-l5;
+    }
+  }
+  &__pink {
+    background-color: $quixam-pink;
+    &-d1 {
+      background-color: $quixam-pink-d1;
+    }
+    &-d2 {
+      background-color: $quixam-pink-d2;
+    }
+    &-d3 {
+      background-color: $quixam-pink-d3
+    }
+    &-d4 {
+      background-color: $quixam-pink-d4;
+    }
+    &-d5 {
+      background-color: $quixam-pink-d5;
+    }
+    &-l1 {
+      background-color: $quixam-pink-l1;
+    }
+    &-l2 {
+      background-color: $quixam-pink-l2;
+    }
+    &-l3 {
+      background-color: $quixam-pink-l3;
+    }
+    &-l4 {
+      background-color: $quixam-pink-l4;
+    }
+    &-l5 {
+      background-color: $quixam-pink-l5;
+    }
+  }
+}
